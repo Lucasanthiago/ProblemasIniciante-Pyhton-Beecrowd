@@ -20,4 +20,6 @@ while True:
             print("terceiro")
             continue
 
+    if x1 or x2 == 0:
+        break
 
